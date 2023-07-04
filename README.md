@@ -1,11 +1,16 @@
 Baby tracker app made using Flutter!
 
-Note: I have removed the firebase_options.dart file to hide the API keys. 
+[Note: I have removed the firebase_options.dart file to hide the API keys. ]
+
+Video Demo:
+https://www.youtube.com/watch?v=C9Jt-nNfxFA&ab_channel=CoreyB
 
 
-References
+/*
+* References
+*/
 
-Tutorials
+// Tutorials 
 
 Nav Bar:
 Programming Addict 2019, “Bottom Navigation Bar in Flutter - Programming Addict”, YouTube, available 
@@ -30,7 +35,8 @@ Accessing Image Gallery
 HeyFlutter.com 2021, “Flutter Tutorial - Image Picker From Camera & Gallery | The Right Way | Pick 
 Images & Videos”, YouTube, available at: https://www.youtube.com/watch?v=MSv38jO4EJk&t=186s
 
-Assets
+
+// Assets
 
 Delete gif:
 Burnt Toast 2023, “Trash”, Dribbble, available at: https://dribbble.com/shots/7066852-Trash
