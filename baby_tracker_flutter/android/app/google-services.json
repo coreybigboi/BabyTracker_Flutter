@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "458621965407",
+    "project_id": "kit305-e951e",
+    "storage_bucket": "kit305-e951e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458621965407:android:d20b83deb91fbad0ccb7ea",
+        "android_client_info": {
+          "package_name": "au.edu.utas.cbarr0.babytracker.baby_tracker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4ovOijLj4dfdu7xyv-1yKUjdHjFmbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458621965407-j9rn4cd9h1rkpm4di638ao49as78sitb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.BabyTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458621965407:android:a21b1f2b82cec1b3ccb7ea",
+        "android_client_info": {
+          "package_name": "au.edu.utas.cbarr0.kit305assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4ovOijLj4dfdu7xyv-1yKUjdHjFmbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458621965407-j9rn4cd9h1rkpm4di638ao49as78sitb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.BabyTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458621965407:android:ba51cde46222fe97ccb7ea",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4ovOijLj4dfdu7xyv-1yKUjdHjFmbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458621965407-uu98hcmh4ip5rp2n6n5jt4b6mjd2pifb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458621965407-j9rn4cd9h1rkpm4di638ao49as78sitb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.BabyTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
